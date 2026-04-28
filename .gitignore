@@ -3,4 +3,3 @@ catboost_info/
 *.txt
 *.csv
 __pycache__/
-.ipynb_checkpoints/
